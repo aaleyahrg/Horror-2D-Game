@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/Blueprints/BP-Player.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/Blueprints/PrototypeGame.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/Blueprints/Movement.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/WhispersInTheMaze.umap",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/PlayerPrototype/Character_Sprite_Sheet.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/PlayerPrototype/Character_Sprite_Sheet_PlayerPrototype_0.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/PlayerPrototype/Character_Sprite_Sheet_PlayerPrototype_1.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/PlayerPrototype/Character_Sprite_Sheet_PlayerPrototype_2.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/PlayerPrototype/Character_Sprite_Sheet_PlayerPrototype_3.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/PlayerPrototype/Character_Sprite_Sheet_PlayerPrototype_4.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/Environment/map.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/Environment/map_TileMap.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/Environment/map_TileSet.uasset",
+				"C:/Users/aylax/Desktop/Aaleyah Folder/Escape Earth/Horror-2D-Game/Content/PlayerPrototype/PlayerStandPrototype.uasset"
+			]
+		}
+	]
+}
