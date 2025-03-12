@@ -1311,3 +1311,101 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.12-22.43.34:940][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
 [2025.03.12-22.43.34:940][  0]LogPakFile: Initializing PakPlatformFile
 [2025.03.12-22.43.34:942][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.03.12-22.43.35:430][  0]LogSlate: Took 0.003545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.03.12-22.43.35:442][  0]LogSlate: Took 0.005311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.03.12-22.43.35:448][  0]LogSlate: Took 0.004743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.03.12-22.43.35:492][  0]LogNNEDenoiser: ApplySettings: bDenoiserEnabled 1
+[2025.03.12-22.43.35:505][  0]LogNNEDenoiser: Loaded input mapping from NNEDIM_ColorAlbedoNormal_Alpha
+[2025.03.12-22.43.35:508][  0]LogNNEDenoiser: Loaded output mapping from NNEDOM_Output_Alpha
+[2025.03.12-22.43.35:508][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2025.03.12-22.43.35:611][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2025.03.12-22.43.35:611][  0]LogNNEDenoiser: Create denoiser from asset /NNEDenoiser/NNED_Oidn2-3_Balanced_Alpha.NNED_Oidn2-3_Balanced_Alpha...
+[2025.03.12-22.43.35:615][  0]LogNNEDenoiser: Loaded input mapping from NNEDTIM_ColorAlbedoNormal_Alpha
+[2025.03.12-22.43.35:616][  0]LogNNEDenoiser: Loaded output mapping from NNEDTOM_Output_Alpha
+[2025.03.12-22.43.35:616][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2025.03.12-22.43.35:686][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2025.03.12-22.43.35:686][  0]LogNNEDenoiser: Create temporal denoiser from asset /NNEDenoiser/NNEDT_Oidn2-3_Balanced_Alpha.NNEDT_Oidn2-3_Balanced_Alpha...
+[2025.03.12-22.43.35:893][  0]LogD3D12RHI: Creating RTPSO with 21 shaders (0 cached, 21 new) took 128.08 ms. Compile time 35.84 ms, link time 92.13 ms.
+[2025.03.12-22.43.35:993][  0]LogStall: Startup...
+[2025.03.12-22.43.35:995][  0]LogStall: Startup complete.
+[2025.03.12-22.43.36:037][  0]LogLoad: (Engine Initialization) Total time: 56.95 seconds
+[2025.03.12-22.43.36:199][  0]LogAssetRegistry: AssetRegistryGather time 0.4560s: AssetDataDiscovery 0.3978s, AssetDataGather 0.0175s, StoreResults 0.0407s. Wall time 35.5260s.
+	NumCachedDirectories 0. NumUncachedDirectories 1592. NumCachedFiles 8219. NumUncachedFiles 7.
+	BackgroundTickInterruptions 2.
+[2025.03.12-22.43.36:211][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.03.12-22.43.36:211][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.03.12-22.43.36:216][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.03.12-22.43.36:216][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.03.12-22.43.36:263][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-22.43.36:271][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.03.12-22.43.36:377][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.03.12-22.43.36:382][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 111.255 ms
+[2025.03.12-22.43.36:583][  3]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 8.540325
+[2025.03.12-22.43.36:584][  3]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.03.12-22.43.36:586][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8.558654
+[2025.03.12-22.43.36:889][  8]LogSourceControl: Uncontrolled asset enumeration finished in 0.677907 seconds (Found 8202 uncontrolled assets)
+[2025.03.12-22.43.37:645][ 10]LogSlate: Took 0.003143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.03.12-22.43.37:694][ 10]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.03.12-22.43.38:305][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 9.967138
+[2025.03.12-22.43.38:307][ 12]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -36188152
+[2025.03.12-22.43.38:307][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9.967138, Update Interval: 315.392303
+[2025.03.12-22.43.38:436][ 20]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 296...4f2 Access[Expires: 2025.03.13-00.43.37 Remaining: 7200.17] Refresh[Expires: 2025-09-08T22:43:37.168Z Remaining: 15552000.17] State: Valid
+[2025.03.12-22.43.38:461][ 21]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.03.12-22.43.38:591][ 27]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.03.12-22.43.38:591][ 27]LogFab: Display: User logged in
+[2025.03.12-22.43.38:591][ 27]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.03.12-22.43.38:670][ 31]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-pnIeJzpVeEieeB7F6HiYug--4KDG-VQck6Ux7Px_EDE1g]
+[2025.03.12-22.43.40:908][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.12-22.43.40:934][149]LogStall: Shutdown...
+[2025.03.12-22.43.40:934][149]LogStall: Shutdown complete.
+[2025.03.12-22.43.40:958][149]LogSlate: Window 'Wispers_In_The_Maze - Unreal Editor' being destroyed
+[2025.03.12-22.43.40:959][149]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2025.03.12-22.43.41:054][149]Cmd: QUIT_EDITOR
+[2025.03.12-22.43.41:054][150]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.12-22.43.41:058][150]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.12-22.43.41:058][150]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.12-22.43.41:058][150]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.12-22.43.41:060][150]LogWorld: UWorld::CleanupWorld for Map_Basic, bSessionEnded=true, bCleanupResources=true
+[2025.03.12-22.43.41:061][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-22.43.41:068][150]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.12-22.43.41:071][150]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.12-22.43.41:075][150]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.12-22.43.41:077][150]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.12-22.43.41:077][150]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.12-22.43.41:078][150]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.12-22.43.41:079][150]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.12-22.43.41:079][150]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.12-22.43.41:079][150]LogAudio: Display: Audio Device unregistered from world 'Map_Basic'.
+[2025.03.12-22.43.41:079][150]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.12-22.43.41:079][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.12-22.43.41:082][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.12-22.43.41:087][150]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.12-22.43.41:087][150]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.12-22.43.41:089][150]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.12-22.43.41:089][150]LogExit: Preparing to exit.
+[2025.03.12-22.43.41:106][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.12-22.43.42:197][150]LogEditorDataStorage: Deinitializing
+[2025.03.12-22.43.42:272][150]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.12-22.43.42:288][150]LogExit: Editor shut down
+[2025.03.12-22.43.42:289][150]LogExit: Transaction tracking system shut down
+[2025.03.12-22.43.42:396][150]LogExit: Object subsystem successfully closed.
+[2025.03.12-22.43.42:418][150]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.12-22.43.42:995][150]LogMemoryProfiler: Shutdown
+[2025.03.12-22.43.42:996][150]LogNetworkingProfiler: Shutdown
+[2025.03.12-22.43.42:996][150]LoadingProfiler: Shutdown
+[2025.03.12-22.43.42:996][150]LogTimingProfiler: Shutdown
+[2025.03.12-22.43.43:341][150]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.03.12-22.43.43:371][150]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.12-22.43.43:371][150]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B335EB7FB-46EC-368E-8BFF-A3B80156DAF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=7d9adf9f47029c3d122cf1a405ca896e%7C2961a333e7964a378ffd9fe365b0b4f2%7Cffba2d5a-6c59-4e5b-96c2-9a1abd495334&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.12-22.43.43:917][150]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.12-22.43.43:917][150]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.12-22.43.43:917][150]LogNFORDenoise: NFORDenoise function shutting down
+[2025.03.12-22.43.43:927][150]RenderDocPlugin: plugin has been unloaded.
+[2025.03.12-22.43.43:929][150]LogXGEController: Cleaning working directory: C:/Users/thund/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.03.12-22.43.43:931][150]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.03.12-22.43.43:931][150]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.03.12-22.43.43:931][150]LogPakFile: Destroying PakPlatformFile
+[2025.03.12-22.43.44:022][150]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.12-22.43.44:053][150]LogExit: Exiting.
+[2025.03.12-22.43.44:065][150]Log file closed, 03/12/25 18:43:44
