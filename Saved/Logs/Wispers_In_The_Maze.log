@@ -1261,3 +1261,53 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.12-22.43.31:619][  0]LogPython: Using Python 3.11.8
 [2025.03.12-22.43.32:327][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
 [2025.03.12-22.43.32:570][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (1 permutations).
+[2025.03.12-22.43.33:640][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.03.12-22.43.33:788][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2025.03.12-22.43.33:788][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.03.12-22.43.34:065][  0]LogEditorDataStorage: Initializing
+[2025.03.12-22.43.34:069][  0]LogEditorDataStorage: Initialized
+[2025.03.12-22.43.34:075][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.03.12-22.43.34:184][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.03.12-22.43.34:190][  0]SourceControl: Revision control is disabled
+[2025.03.12-22.43.34:190][  0]LogUnrealEdMisc: Loading editor; pre map load, took 55.104
+[2025.03.12-22.43.34:197][  0]Cmd: MAP LOAD FILE="../../../../../../Users/thund/Documents/Unreal Projects/Wispers_In_The_Maze/Horror-2D-Game/Content/Maps/Map_Basic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.12-22.43.34:201][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.03.12-22.43.34:202][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-22.43.34:221][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.12-22.43.34:230][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.12-22.43.34:376][  0]LogStaticMesh: Display: Building static mesh Cube (Required Memory Estimate: 0.030915 MB)...
+[2025.03.12-22.43.34:380][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/EngineMeshes/Cube.Cube
+[2025.03.12-22.43.34:398][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Basic'.
+[2025.03.12-22.43.34:398][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Basic
+[2025.03.12-22.43.34:421][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.12-22.43.34:435][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.12-22.43.34:435][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.12-22.43.34:435][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2025.03.12-22.43.34:449][  0]LogUnrealEdMisc: Total Editor Startup Time, took 55.362
+[2025.03.12-22.43.34:549][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.03.12-22.43.34:585][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.03.12-22.43.34:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.12-22.43.34:692][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.12-22.43.34:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.12-22.43.34:755][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.12-22.43.34:787][  0]LogAssetRegistry: Display: Asset registry cache written as 36.4 MiB to ../../../../../../Users/thund/Documents/Unreal Projects/Wispers_In_The_Maze/Horror-2D-Game/Intermediate/CachedAssetRegistry_*.bin
+[2025.03.12-22.43.34:907][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:910][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.03.12-22.43.34:911][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:916][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.03.12-22.43.34:916][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:921][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.03.12-22.43.34:921][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:925][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.03.12-22.43.34:926][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:930][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.03.12-22.43.34:930][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:932][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.03.12-22.43.34:932][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:935][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.03.12-22.43.34:935][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:938][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.03.12-22.43.34:938][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:940][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.03.12-22.43.34:940][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.12-22.43.34:942][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
