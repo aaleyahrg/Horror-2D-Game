@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\aylax\\Desktop\\Aaleyah Folder\\Escape Earth\\Horror-2D-Game\\Intermediate\\Source\\Wispers_In_The_Maze.Build.cs",
+		"C:\\Users\\aylax\\Desktop\\Aaleyah Folder\\Escape Earth\\Horror-2D-Game\\Intermediate\\Source\\Wispers_In_The_Maze.Target.cs",
+		"C:\\Users\\aylax\\Desktop\\Aaleyah Folder\\Escape Earth\\Horror-2D-Game\\Intermediate\\Source\\Wispers_In_The_MazeClient.Target.cs",
+		"C:\\Users\\aylax\\Desktop\\Aaleyah Folder\\Escape Earth\\Horror-2D-Game\\Intermediate\\Source\\Wispers_In_The_MazeEditor.Target.cs",
+		"C:\\Users\\aylax\\Desktop\\Aaleyah Folder\\Escape Earth\\Horror-2D-Game\\Intermediate\\Source\\Wispers_In_The_MazeServer.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}
